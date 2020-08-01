@@ -7,7 +7,7 @@
 [![Linkedin: dylanbatar](https://img.shields.io/badge/-dylanbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-batista-617027178/)](https://www.linkedin.com/in/dylan-batista-617027178/)
 [![GitHub dylanbatar](https://img.shields.io/github/followers/dylanbatar?label=follow&style=social)](https://github.com/dylanbatar)
 
-### <img src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" width="100"> A little more about me...
+### A little more about me...
 
 ```javascript
 const dylanbatar = {
