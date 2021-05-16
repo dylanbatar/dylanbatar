@@ -23,9 +23,9 @@ const dylanbatar = {
             js: ["node", "express"],
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "Jest"]
+        misc: ["Firebase", "Socket.IO", "Jest", "Sinon", "Chai"]
     },
   architecture: ["Progressive web applications", "Single page applications"],
-  currentProject: "I am developing payment app",
+  currentProject: "I am developing make-up marketplace",
 }
 ```
