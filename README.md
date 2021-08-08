@@ -1,6 +1,6 @@
 <h2> Hellow, I'm Dylan Batista! (Dylanbatar) </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>System Engineer Student at <a href="https://www.curn.edu.co/">University Corporation Rafael Nuñez</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Frontend Developer at <a href="https://condorlabs.io/">Condor Labs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Engineer Student at <a href="https://www.curn.edu.co/">University Corporation Rafael Nuñez</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://condorlabs.io/">Condor Labs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: dylanbatar](https://img.shields.io/twitter/follow/dylanbatar?style=social)](https://twitter.com/dylanbatar)
